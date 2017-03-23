@@ -4,4 +4,9 @@
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="con" path="MULE_RUNTIME"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/com/anupam/common-jar/1.0.0/common-jar-1.0.0.jar">
+    <attributes>
+      <attribute value="provided" name="org.mule.tooling.scope"/>
+    </attributes>
+  </classpathentry>
 </classpath>
